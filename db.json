@@ -10,5 +10,32 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "coupons": [
+    { 
+      "title": "Flipkart Offer: Get up to 80% Discount on Electronics & Accessories",
+      "tag": "80% OFF",
+      "code": "NEW"
+    },
+    { 
+      "title": "Up to 70% Discount on Water Purifier, Microwaves & More",
+      "tag": "70% OFF",
+      "code": "WATER"
+    },
+    { 
+      "title": "Flipkart Home Decor Offer: Shop Painting, Wall Clock & More Starting From Rs.99",
+      "tag": "Rs 99",
+      "code": "DECOR"
+    },
+    { 
+      "title": "Buy Best Selling DSLRs Camera Starting From Rs.23,999",
+      "tag": "DSLR",
+      "code": "CAMERA"
+    },
+    { 
+      "title": "Shop Car & Bike Accessories Starting at just Rs.99",
+      "tag": "Shop",
+      "code": "CAR"
+    }
+  ]
 }
